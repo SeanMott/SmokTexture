@@ -1,2 +1,3 @@
-# SmokTexture
-A library for handling textures in the Smok Game Engine
+Smok Texture
+
+Smok Texture handles images, textures, fonts, and sprites
